@@ -6,7 +6,7 @@ ChatConnect is a modern real-time chat application developed using **Kotlin**, *
 
 ## 🔗 Demo
 
-**[https://drive.google.com/file/d/1HXqAj0BsbPW0-gEy6dSz5u4w3deVxF7B/view?usp=sharing ](#)**  
+**(https://drive.google.com/file/d/1i7JaJ6HfSgb4VNLcAr7PBjatqQeMuepi/view?usp=drive_link)**  
 
 **(https://github.com/uzma-005/Android.git)**
 
